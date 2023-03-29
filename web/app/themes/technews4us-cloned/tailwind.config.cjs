@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         brandblack: '#1A1A1A',
+        // brandpurple: '#7222ff',
       }, // Extend Tailwind's default colors
       fontFamily: {
         sans: [

@@ -1,0 +1,8 @@
+.header {
+  background-color: var(--g1-hbb-bg-color);
+  background-image: linear-gradient(
+    to right,
+    var(--g1-hbb-bg-color),
+    var(--g1-hbb-gradient-color)
+  );
+}

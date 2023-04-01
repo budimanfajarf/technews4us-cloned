@@ -6,3 +6,15 @@
     var(--g1-hbb-gradient-color)
   );
 }
+
+.header .nav {
+  @apply flex items-center space-x-5.5 py-7;
+}
+
+.header .menu-item a {
+  @apply font-bold leading-none tracking-normal text-base flex items-center;
+}
+
+.header .menu-item strong {
+  @apply text-2xl ml-1 font-bold;
+}

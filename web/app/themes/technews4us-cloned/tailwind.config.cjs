@@ -51,6 +51,7 @@ module.exports = {
           'Segoe UI Symbol',
           'Noto Color Emoji',
         ],
+        roboto: ['Roboto', 'sans-serif'],
       },
       spacing: {
         5.5: '1.375rem',
